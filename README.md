@@ -2,6 +2,7 @@
 Análise de Fatores de Risco para a Saúde Este projeto realiza uma análise exploratória de dados (EDA) em um conjunto de dados sintético focado em estilo de vida e previsão de risco à saúde. O objetivo é identificar padrões, correlações e a influência de diversas variáveis de estilo de vida em diferentes níveis de risco à saúde (baixo, médio, alto).
 
 Principais Tópicos Abordados:
+
 Preparação e Limpeza de Dados: Carregamento do dataset, verificação de valores ausentes e renomeação de colunas para maior clareza.
 
 Análise de Correlações Numéricas: Exploração das relações entre variáveis como idade, peso, altura, sono e Índice de Massa Corporal (IMC).
